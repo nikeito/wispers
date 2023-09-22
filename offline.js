@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1695352297,
+	"version": 1695360876,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,6 +10,9 @@
 		"images/eco-sheet0.png",
 		"images/eco_soundhitbox-sheet0.png",
 		"images/nuvem-sheet0.png",
+		"images/nuvem-sheet1.png",
+		"images/nuvem-sheet2.png",
+		"images/nuvem-sheet3.png",
 		"images/particles.png",
 		"images/particula_nuvem.png",
 		"images/particula_nuvem2.png",
